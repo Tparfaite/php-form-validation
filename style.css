@@ -1,0 +1,11 @@
+.main{
+    margin-top: 60px;
+}
+.bg-success{
+    height: auto;
+    width: 500px;
+    margin: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
