@@ -1,5 +1,10 @@
 <?php
 
+
+define("xy","php");
+echo xy;
+echo "<br>";
+
 #connect to database
 
 $connect=mysqli_connect('localhost','Parfaite','Perfect@S1','personal-info');

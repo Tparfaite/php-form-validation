@@ -25,10 +25,17 @@
 .text{
     color: red;
 }
-.card{
+.cards{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    background-color: blueviolet;
     padding-left: 30px;
     margin-left: 40px;
+    grid-gap:40px;
+}
+.card-header{
+    text-align: center;
+    color: white;
+}
+h4{
+    margin-left:50px;
 }
